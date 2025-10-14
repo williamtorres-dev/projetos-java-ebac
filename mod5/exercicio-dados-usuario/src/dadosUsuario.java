@@ -41,6 +41,8 @@ public class dadosUsuario {
         System.out.println("Estado civil: ");
         String estadoCivil = scanner.nextLine();
         System.out.println(" ");
+        System.out.println("-------------------------------");
+        System.out.println(" ");
 
         System.out.println("Seus dados apresentados foram: ");
         System.out.println("• Nome completo: " + nomeCompleto + '\n' + "• CPF: " + cpf + '\n' + "• Idade: " + idade +
